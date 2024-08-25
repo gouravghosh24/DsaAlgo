@@ -1,0 +1,64 @@
+## This is a Folder where you will find all my practices related to Bitwise Operators
+
+
+# The Operators work on Bit level and not number level
+
+AND     - &
+OR      - |
+NOT     - ~
+XOR     - ^
+
+AND Operator is 1 only when 2 bits are 1
+----------------------------------------
+
+    X   |   Y   |  "&"
+------------------------
+   0    |   0   |   0  |   
+   0    |   1   |   0  |                                                               
+   1    |   0   |   0  |
+   1    |   1   |   1  |
+
+
+OR Operator is 1 only when 1 of the 2 bits are 1
+-------------------------------------------------
+
+X   |    Y   |    "|"
+------------------------
+0    |   0   |   0  |   
+0    |   1   |   1  |                                                               
+1    |   0   |   1  |
+1    |   1   |   1  |
+
+NOT Operator only changes the value of 0 to 1 and 1 to 0
+---------------------------------------------------------
+
+ X   |   Y
+------------------------
+0    |   1   
+0    |   1                                                              
+1    |   0
+1    |   0
+
+XOR Operator is 1 only when 1 of the 2 bits are 1, if we have 0 and 0  it is not 1
+-------------------------------------------------
+
+X   |    Y   |    "^"
+------------------------
+0    |   0   |   0  |   
+0    |   1   |   1  |                                                               
+1    |   0   |   1  |
+1    |   1   |   0  |
+
+~a = 4 = 000000000.... 100
+         111111111.... 011  (After Converting to NOT)
+         000000000.... 100  (1's complement)
+         0000     ....   1  (adding 2's compliment)
+---------------------------------------------------------
+Print                  101 = -5 Bitwise (if first bit is 1 the number returns negative)
+
+~b = 2 = 0000000000 ..... 010
+         1111111111 ..... 101
+         0000000000 ..... 010
+         0000       .....   1
+-----------------------------------------------------------
+Print                     011 = -3
