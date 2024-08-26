@@ -1,6 +1,4 @@
-//
-// Created by goura on 21-06-2024.
-//
+
 #include <iostream>
 using namespace std;
 int isArrays(int arr[], int n)
