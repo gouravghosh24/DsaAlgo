@@ -1,12 +1,14 @@
 ## This is a Folder where you will find all my practices related to Bitwise Operators
+# Read More About **Boolean Operations** [BooleanOperations](https://cplusplus.com/doc/boolean/)
+
 
 
 # The Operators work on Bit level and not number level
 
-AND     - &
-OR      - |
-NOT     - ~
-XOR     - ^
+**AND**     - &
+**OR**      - |
+**NOT**     - ~
+**XOR**     - ^
 
 AND Operator is 1 only when 2 bits are 1
 ----------------------------------------
@@ -64,3 +66,6 @@ Print                  101 = -5 Bitwise (if first bit is 1 the number returns ne
          0000       .....   1
 -----------------------------------------------------------
 Print                     011 = -3
+
+
+
