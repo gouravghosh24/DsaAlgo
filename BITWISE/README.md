@@ -70,8 +70,9 @@ Print                     011 = -3
 
 
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|        X        | Y                         |AND Operation                        |
+|-----------------|---------------------------|-------------------------------------|
+|0|0          |'Isn't this fun?'            |0
+|0            |1                            |0                                      |
+|1            |0                            |0                                      |
+|1            |1                            |1                                      |
