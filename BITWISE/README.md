@@ -22,6 +22,8 @@ AND Operator is 1 only when 2 bits are 1
 OR Operator is 1 only when 1 of the 2 bits are 1
 -------------------------------------------------
 
+
+
 X   |    Y   |    "|"
 ------------------------
 0    |   0   |   0  |   
