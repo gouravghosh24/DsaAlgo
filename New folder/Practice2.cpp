@@ -32,13 +32,16 @@ int main()
     //     cout << arr[i] << " ";
     // }
 
-    int n = 10;
-    char y = 'a';
-    int sum = n+y;
+    // int n = 10;
+    // char y = 'a';
+    // int sum = n+y;
     // int count = 0;
     // while(n){
     //     n &= (n-1);
     //     count++;
     // }
-    cout << sum;
+    // cout << sum;
+
+    int k;
+    cout << k;
 }

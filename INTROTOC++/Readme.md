@@ -32,5 +32,9 @@
 ## Ternary Operator
 #       Syntax:
                 condition ? expression_if_true : expression_if_false;
+
+## Read About the Number Systems
+#  Link: [Number Systems](https://cplusplus.com/doc/hex/)
+
                 
 
