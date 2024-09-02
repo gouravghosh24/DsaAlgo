@@ -5,7 +5,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## What you will find here,
 
-You can render UML diagrams using [DSA](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
+
 
 ```mermaid
 ---
