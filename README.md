@@ -56,10 +56,10 @@ classDiagram
     DataStructures : Heaps
     DataStructures : Maps&Tries
 
-    STL : Algorithms
-    STL : Containers
-    STL : Iterators
-    STL : Functors
+    STL : Standard library functions in C++ to solve Algorithms
+    STL : Standard library functions in C++ Containers
+    STL : Standard library functions in C++ Iterators
+    STL : Standard library functions in C++ Functors
 
 
     
