@@ -21,9 +21,13 @@ classDiagram
     style STL fill:#ffa24b,stroke:#000,color:#000
     style DataStructures fill:#5ce6ff,stroke:#000,color:#000
 
-    DSA : Data Structures and Algorithms
-    DSA : STL
+    
+    DSA : Algorithms
+    DSA : Data Structures
     DSA : Basics of C++
+    DSA : STL -> Here you will learn about all the standard library functions in C++
+    
+    
 
     BasicsCPP : Namastey Duniye -> Hello World program
     BasicsCPP : Variables and Data types
@@ -44,6 +48,13 @@ classDiagram
     DataStructures : Tree
     DataStructures : Graphs
     DataStructures : HashMap
+    DataStructures : Searching & Sorting
+    DataStructures : Character Arrays & Strings
+    DataStructures : Recursion
+    DataStructures : Backtracking
+    DataStructures : Queue
+    DataStructures : Heaps
+    DataStructures : Maps&Tries
 
     STL : Algorithms
     STL : Containers
