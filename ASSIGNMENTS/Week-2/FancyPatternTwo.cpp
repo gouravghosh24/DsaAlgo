@@ -13,7 +13,7 @@ Refer page 34-36 on copy
 
 */
 
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 int main()

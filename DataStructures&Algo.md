@@ -7,10 +7,10 @@ I've been actively expanding my knowledge and skills in Data Structures and Algo
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
+
 ```mermaid
----
+
 title: Data Structures and Algorithms
----
 classDiagram
     DSA --|> STL
     DSA --|> DataStructures
@@ -19,7 +19,7 @@ classDiagram
     style DSA fill:#dcfeff,stroke:#000,color:#000
     style BasicsCPP fill:#92fdd1,stroke:#000,color:#000
     style STL fill:#ffa24b,stroke:#000,color:#000
-    style DataStructures fill:#5ce6ff,stroke:#000,color:#000
+    style DataStructures fill:#5ce6ff,stroke:#000,
 
     DSA : Data Structures and Algorithms
     DSA : STL
@@ -49,25 +49,3 @@ classDiagram
     STL : Containers
     STL : Iterators
     STL : Functors
-
-```
-```mermaid
----
-title: Example Git diagram
----
-gitGraph
-   commit
-   commit
-   branch master
-   checkout master
-   commit
-   commit
-   checkout main
-   merge master
-   commit
-   commit
-
-
-```
-
-Md Footer: Generate Footer
