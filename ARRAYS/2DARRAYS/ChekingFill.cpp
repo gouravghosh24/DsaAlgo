@@ -1,6 +1,8 @@
 #include <iostream>
 #include <algorithm>
-
+/*
+Arrays
+*/
 using namespace std;
 
 int main()
