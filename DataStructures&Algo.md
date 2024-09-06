@@ -1,16 +1,16 @@
-## Hey!
+# Hello World!
 #  Enhancing my expertise in Data Structures and Algorithms to drive efficient problem-solving and innovative software development
 ----------------------------------------------------------------------------------------------------------------------------------------
-I've been actively expanding my knowledge and skills in Data Structures and Algorithms, and I'm excited to continue exploring these fundamental concepts in computer science. Through dedicated learning and practice, I aim to deepen my understanding of these essential building blocks and apply them to develop efficient, scalable, and innovative solutions
+#### I've been actively expanding my knowledge and skills in Data Structures and Algorithms, and I'm excited to continue exploring these fundamental concepts in computer science. Through dedicated learning and practice, I aim to deepen my understanding of these essential building blocks and apply them to develop efficient, scalable, and innovative solutions
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## What you will find here,
 
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
 
 ```mermaid
-
+---
 title: Data Structures and Algorithms
+---
 classDiagram
     DSA --|> STL
     DSA --|> DataStructures
@@ -19,11 +19,15 @@ classDiagram
     style DSA fill:#dcfeff,stroke:#000,color:#000
     style BasicsCPP fill:#92fdd1,stroke:#000,color:#000
     style STL fill:#ffa24b,stroke:#000,color:#000
-    style DataStructures fill:#5ce6ff,stroke:#000,
+    style DataStructures fill:#5ce6ff,stroke:#000,color:#000
 
-    DSA : Data Structures and Algorithms
-    DSA : STL
+    
+    DSA : Algorithms
+    DSA : Data Structures
     DSA : Basics of C++
+    DSA : STL -> Here you will learn about all the standard library functions in C++
+    
+    
 
     BasicsCPP : Namastey Duniye -> Hello World program
     BasicsCPP : Variables and Data types
@@ -44,8 +48,24 @@ classDiagram
     DataStructures : Tree
     DataStructures : Graphs
     DataStructures : HashMap
+    DataStructures : Searching & Sorting
+    DataStructures : Character Arrays & Strings
+    DataStructures : Recursion
+    DataStructures : Backtracking
+    DataStructures : Queue
+    DataStructures : Heaps
+    DataStructures : Maps&Tries
 
-    STL : Algorithms
-    STL : Containers
-    STL : Iterators
-    STL : Functors
+    STL : Standard library functions in C++ to solve Algorithms
+    STL : Standard library functions in C++ Containers
+    STL : Standard library functions in C++ Iterators
+    STL : Standard library functions in C++ Functors
+
+
+    
+
+
+
+```
+
+Md Footer: Generate Footer
