@@ -40,14 +40,14 @@ int main()
     // Logical Operators
     //&& = AND, || = OR, ! = NOT
 
-    int a = 5;
+    int a = 15;
     cout << a << endl;
     cout << "Pre: " << (++a) << endl;
     cout << "Post: " << (a++) << endl;
 
     cout << "Pre: " << (--a) << endl;
     cout << "Post: " << (a--) << endl;
-    cout << a << endl;
+    
 
     return 0;
 }
