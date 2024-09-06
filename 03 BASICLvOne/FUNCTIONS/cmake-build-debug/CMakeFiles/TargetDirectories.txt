@@ -1,7 +1,0 @@
-D:/cLion/CPlusPpractice/FUNCTIONS/cmake-build-debug/CMakeFiles/FUNCTIONS.dir
-D:/cLion/CPlusPpractice/FUNCTIONS/cmake-build-debug/CMakeFiles/FUNC1.dir
-D:/cLion/CPlusPpractice/FUNCTIONS/cmake-build-debug/CMakeFiles/FUNC2.dir
-D:/cLion/CPlusPpractice/FUNCTIONS/cmake-build-debug/CMakeFiles/FUNC3.dir
-D:/cLion/CPlusPpractice/FUNCTIONS/cmake-build-debug/CMakeFiles/FUNC4.dir
-D:/cLion/CPlusPpractice/FUNCTIONS/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cLion/CPlusPpractice/FUNCTIONS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

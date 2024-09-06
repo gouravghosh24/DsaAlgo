@@ -1,7 +1,7 @@
 /*
     Full Pyramid : Refer to page no. 166 copy reference
 */
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
 // Pyramid function, this is the power house where the logic is designed  
