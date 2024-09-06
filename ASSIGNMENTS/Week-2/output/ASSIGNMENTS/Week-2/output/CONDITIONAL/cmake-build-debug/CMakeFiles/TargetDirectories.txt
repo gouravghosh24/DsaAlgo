@@ -1,5 +1,0 @@
-D:/cLion/CPlusPpractice/CONDITIONAL/cmake-build-debug/CMakeFiles/CONDITIONAL.dir
-D:/cLion/CPlusPpractice/CONDITIONAL/cmake-build-debug/CMakeFiles/CONDI1.dir
-D:/cLion/CPlusPpractice/CONDITIONAL/cmake-build-debug/CMakeFiles/CONDI2.dir
-D:/cLion/CPlusPpractice/CONDITIONAL/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cLion/CPlusPpractice/CONDITIONAL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

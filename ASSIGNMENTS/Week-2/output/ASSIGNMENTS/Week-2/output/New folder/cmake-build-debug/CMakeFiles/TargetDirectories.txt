@@ -1,4 +1,0 @@
-D:/cLion/CPlusPpractice/New folder/cmake-build-debug/CMakeFiles/New_folder.dir
-D:/cLion/CPlusPpractice/New folder/cmake-build-debug/CMakeFiles/PRACTICE.dir
-D:/cLion/CPlusPpractice/New folder/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cLion/CPlusPpractice/New folder/cmake-build-debug/CMakeFiles/rebuild_cache.dir

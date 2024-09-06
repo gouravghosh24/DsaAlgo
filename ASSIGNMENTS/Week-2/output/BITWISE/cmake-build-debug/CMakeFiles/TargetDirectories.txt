@@ -1,8 +1,0 @@
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/BITWISE.dir
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/PRACT1.dir
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/PRACT2.dir
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/PRACT3.dir
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/PRACT4.dir
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/PRACT5.dir
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/cLion/CPlusPpractice/BITWISE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
