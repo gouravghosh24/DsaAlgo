@@ -1,5 +1,5 @@
-/*
-Find The Pivot Index : Leetcode : refer page 167-169 on the copy for notes
+    /*
+Find The Pivot Index : Leetcode : refer page 167-169 or 88-90(new copy) on the copy for notes
 */
 
 #include <iostream>
